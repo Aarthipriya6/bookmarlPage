@@ -1,6 +1,9 @@
 # Frontend Mentor - Bookmark landing page
 
-## Tech
+***
+
+## TECH STACK
+***
 + HTML
 + CSS
 + JS
